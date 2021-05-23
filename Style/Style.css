@@ -1,0 +1,73 @@
+body  {
+	background: url(https://giknutye.ru/wp-content/uploads/2019/06/horror-anime-0.jpg); 
+ }
+ .first { 
+ 	font-size: 34px;
+ } 
+ .DeathNote {
+ 	color: #e6b5b5;
+ 	font-size: 30px;
+ }
+ .DeathNote:hover {
+ 	color: #fff42b;
+ }
+ .Gomen {
+ 	color: #00bbff;
+ 	font-size: 30px;
+ }
+ .Gomen:hover{
+ 	color:#fff42b;
+ }
+ .DianaMiroFeat{
+ 	color: #00ff44;
+ 	font-size: 30px;
+ }
+ .DianaMiroFeat:hover {
+ 	color:#fff42b;
+ }
+ .Niletto {
+ 	color: #00f241;
+ 	font-size: 30px;
+ }
+ .Niletto:hover {
+ 	color:#fff42b;
+ }
+ .Back {
+ 	color: #f00e0e;
+ 	font-size: 30px;
+ 	text-decoration: none;
+ }
+ .Back:hover {
+ 	color:green;
+ }
+ li {
+ 	color:red;
+ }
+ .Download {
+ 	color: #bdbdbd;
+ }
+ .DownloadOne {
+ 	color:#f00e0e;
+ 	font-size:30px;
+ 	text-decoration: none;
+ }
+ .DownloadTwo {
+ 	color:#f00e0e;
+ 	font-size: 30px;
+ 	text-decoration: none;
+ }
+ .DownloadThree {
+ 	color:#f00e0e;
+ 	font-size: 30px;
+ 	text-decoration: none;
+ }
+ .DownloadFour{
+ 	color:#f00e0e;
+ 	font-size:30px;
+ 	text-decoration: none;
+ }
+ .GoToStartPage {
+ 	color: #aeb8a9;
+ 	font-size:20px;
+ 	text-decoration: none;
+ }
